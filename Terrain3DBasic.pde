@@ -10,7 +10,7 @@ int rows, cols;
 float[][] noiseMap;
 float xOff = 0, yOff = 0;
 float xNoise = 0, yNoise = 0;
-float inc = 0.01;
+float inc = 0.05;
 
 void draw() {
   background(51);
